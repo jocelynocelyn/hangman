@@ -44,7 +44,7 @@ class Game
         @incorrect_letters.push(guess) 
       end                                         
     else
-      puts "Sorry, not sure what you  meant to say. Please try again."
+      puts "Sorry, not sure what you meant to say. Please try again."
       get_guess
     end
     play
