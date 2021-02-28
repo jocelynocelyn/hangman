@@ -1,0 +1,14 @@
+--- !ruby/object:Game
+word: preharden
+solved_letters:
+- r
+- e
+- p
+available_letters: []
+incorrect_letters:
+- t
+- b
+- w
+- y
+guesses: 3
+guess: save
